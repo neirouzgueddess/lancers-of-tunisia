@@ -1,0 +1,7 @@
+{
+  "name": "lancerworkers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
